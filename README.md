@@ -1,2 +1,2 @@
 # heat-flow-sampling-bias
-Investigations of samppling bias in global heat flow catalogue
+Investigations of sampling bias in global heat flow catalogue
