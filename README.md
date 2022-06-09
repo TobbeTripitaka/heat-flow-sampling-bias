@@ -3,4 +3,4 @@ Investigations of sampling bias in global heat flow catalogue
 
 ---
 
-Code to come. 
+Paper submitted. 
