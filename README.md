@@ -5,7 +5,7 @@ Investigations of sampling bias in global heat flow catalogue
 
 Paper in review. 
 
-Notebook is complete, however some formatting to be done. 
+Notebook is updated.  
 
 
 ## Links to datasets used (confirmed working June 2022): 
