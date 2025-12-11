@@ -1,11 +1,12 @@
 # heat-flow-sampling-bias
-Investigations of sampling bias in global heat flow catalogue
+Investigations of sampling bias in the global heat flow catalogue
 
 ---
-
-Paper in review. 
-
-The Notebook is updated.  
+_Properties and Biases of the Global Heat Flow Compilation_ is published: 
+BRIEF RESEARCH REPORT article
+Front. Earth Sci., 17 August 2022
+Sec. Solid Earth Geophysics
+Volume 10 - 2022 | https://doi.org/10.3389/feart.2022.963525
 
 
 ## Links to datasets used (confirmed working June 2022): 
